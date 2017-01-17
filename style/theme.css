@@ -1,0 +1,46 @@
+
+	@import url(http://fonts.googleapis.com/css?family=ABeeZee);
+		nav.navbar.first_navbar, #scorm_toc_title {
+			background: rgb(16, 123, 191);
+		}
+		#scorm_toc_title {
+			background: rgb(16, 123, 191) !important;
+		}
+		nav.navbar.first_navbar a {
+			color: rgb(255, 255, 255);
+		}
+		nav.navbar.first_navbar .dropdown-menu {
+			background-color: rgba(30, 30, 30, 0.8);
+		}
+		nav.navbar.navbar-default {
+			background: rgba(30, 30, 30, 0.8);
+		}
+		nav.navbar.navbar-default ul.nav.navbar-nav.pull-right li a {
+			color: rgb(255, 255, 255)
+		}
+		nav.navbar.navbar-default .dropdown-menu, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+			background-color: rgba(30, 30, 30, 0.8);
+		}
+		img.logo_cabecera {
+			-webkit-filter: invert(0) contrast(1) grayscale(0%) saturate(1);
+			-ms-filter: invert(0) contrast(1) grayscale(0%) saturate(1);
+			filter: invert(0) contrast(1) grayscale(0%) saturate(1);
+		}
+		html body, #page {
+			background-color: rgb(243, 243, 243);
+			font-family: ABeeZee;
+		}
+		.panel-default > .panel-heading, .box.message table td.heading, .box.message .messagearea .messagerecent .singlemessage .otheruser, .block .header, #dockeditempanel .dockeditempanel_hd, h3, h3 a, h4, h4 a, .panel-default > .panel-heading .coursename a, .breadcrumb, a {
+			color: rgb(51, 122, 183);
+		}
+		.mCS-inset-dark.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+			background-color: rgba(0, 0, 0, 0.74902);
+		}
+		.block {
+			background-color: rgba(0, 0, 0, 0);
+			padding: .5em;
+		}
+		#page .content .block_tree li p a, #page span.eventname, #page .content .list li a, .block_site_main_menu .instancename, .block_navigation .block_tree .tree_item, .block_navigation .block_tree .tree_item.branch, .block_settings .block_tree .tree_item  {
+			color: rgb(0, 0, 0);
+		}
+	

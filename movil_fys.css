@@ -1,0 +1,62 @@
+.bar-side-menu {
+   background-color: #37619b;
+ }
+ 
+ .bar-content {
+   background-color: #37619b;
+ }
+ 
+ .button.button-positive {
+   border-color: #37619b;
+   background-color: #37619b;
+    color: #fff;
+ } 
+
+li .item {
+    background-color: #313848;
+    border-color: #4F5865;
+    color: #ccc;
+}
+
+.item.activated {
+    background-color: #37619b !important;
+    color: #fff;
+}
+
+li .item:active {
+    background-color: #37619b;
+    color: #fff;
+}
+
+li.item {
+    border-color: #4F5865;
+}
+
+li.item.item-divider {
+    background-color: #3E4755;
+    color: #fff;
+}
+
+.mm-site_mm_courses .tabs-icon-left {
+    background-color: #EBEFF8;
+}
+
+.mm-site_mm_courses section h2 span {
+    font-weight: bold;
+}
+
+p.ng-binding {
+    color: #fff
+}
+
+
+
+/*
+.item.item-avatar:before {
+    content: url('http://campus.formacionyseguimiento.com/theme/image.php/fys/theme/1474975954/logo');
+    position: absolute;
+    top: 0;
+    margin: 0 auto;
+}
+*/
+
