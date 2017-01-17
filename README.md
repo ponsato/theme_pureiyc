@@ -10,17 +10,12 @@ version 2015110600: Fixed issue on group selection boxes in courses.
 This is the pureiyc theme for Innovación y cualificación.
 
 * package   theme_pureiyc
-* copyright 2016 Innovación y Cualificación, www.innovacionycualificacion.com
+* 2016 Innovación y Cualificación, www.innovacionycualificacion.com
 * authors   Innovación y Cualificación
 
 
 This theme is based on the Bootstrap CSS framework version 3.2.0
 
-Modify this theme
------------------
-Do not modify or clone this theme. If you want to customize this theme create a 
-child theme, a simple child theme is available on:
-https://github.com/bmbrands/theme_cerulean
 
 Moodle versions
 ---------------
@@ -31,13 +26,6 @@ Supported browsers
 ------------------
 IE9+
 Recent versions of all modern browsers
-
-
-JavaScript Libraries
-====================
-
-This theme only uses YUI libraries. If you would like to used any of the advance
-Bootstrap3 JavaScript you can create a child theme that requires jQuery
 
 
 Updating Bootstrap and Libraries
